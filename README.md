@@ -28,8 +28,8 @@ A Java Swing application for creating and managing professional biodata with a s
    - java ProfessionalBiodataSystem
   
 3. **Or run in IDE:**
-- Open the file in any Java IDE
-- Run the main method
+   - Open the file in any Java IDE
+   - Run the main method
 
 ## How to Use
 
